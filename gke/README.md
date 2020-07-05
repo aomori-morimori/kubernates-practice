@@ -2,7 +2,7 @@
 
 ## 研修の内容
 
-1. [コンテナとDocker](./training_contents/introduction_to_container_and_docker.md)
+1. [コンテナとDocker](./contents/introduction_to_container_and_docker.md)
 
 2. [Kubernetesの基礎]()
 
